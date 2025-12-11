@@ -6,7 +6,7 @@ import { motion } from "framer-motion";
 const PROJECTS = [
   {
     title: "Eveready - India's No. 1 Battery",
-    img: "/images/eveready-project.png",
+    img: "./images/eveready-project.png",
     alt: "Eveready website preview",
     desc:
       "Developed the entire website from scratch with a strong focus on clean UI structure, responsive layouts, and high-performance frontend architecture. Implemented smooth GSAP animations, interactive motion effects, and scroll-based transitions to create an engaging and premium user experience. Optimized overall performance, built reusable components, and ensured pixel-perfect execution aligned with the brand identity.",
@@ -27,7 +27,7 @@ const PROJECTS = [
   },
   {
     title: "Eicher Motors - Indian Automotive Company",
-    img: "/images/eicher-project.png",
+    img: "./images/eicher-project.png",
     alt: "Eicher Motors website preview",
     desc:
       "Developed the entire UI from scratch for Eicher Motors, focusing on clean component architecture and responsive frontend implementation. Built reusable UI components, implemented smooth animations using GSAP, and ensured a seamless user experience across all screen sizes. Handled the full frontend workflow—from structuring layouts to integrating advanced motion effects for a modern, premium automotive brand feel.",
@@ -48,7 +48,7 @@ const PROJECTS = [
   },
   {
     title: "Tata Motors Finance",
-    img: "/images/tmf-project.png",
+    img: "./images/tmf-project.png",
     alt: "Tata Motors Finance website preview",
     desc:
       "Developed key frontend components for Tata Motors Finance with a strong focus on smooth user interactions and motion design. Ensured fast performance and consistent design implementation throughout the website.",
@@ -65,7 +65,7 @@ const PROJECTS = [
   },
   {
     title: "Indian Air Force – Career Portal",
-    img: "/images/air-inida-project.png", // yaha tumhara file path sahi ho to mat change karna
+    img: "./images/air-inida-project.png", // yaha tumhara file path sahi ho to mat change karna
     alt: "Indian Air Force career website preview",
     desc:
       "Created the Indian Air Force career portal from scratch using HTML, CSS, JavaScript, jQuery, and Bootstrap with responsive UI and interactive features.",

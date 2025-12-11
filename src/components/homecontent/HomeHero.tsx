@@ -46,7 +46,7 @@ export default function HomeSection() {
           >
             <Image
               alt="Monis Akram profile"
-              src="/images/monis-akram.jpg"
+              src="./images/monis-akram.jpg"
               width={144}
               height={144}
               className="size-36 rounded-full object-cover shadow-xl shadow-yellow-400/40 grayscale transition-all duration-500 hover:scale-105 hover:grayscale-0"
