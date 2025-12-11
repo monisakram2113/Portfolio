@@ -15,8 +15,6 @@ const NAV_ITEMS = [
 export default function Header() {
   const [menuOpen, setMenuOpen] = useState(false);
   const [active, setActive] = useState<string>("#home");
-
-  // Scroll ke hisaab se active section detect karo
   useEffect(() => {
     const sectionIds = NAV_ITEMS.map((item) => item.href);
     const observers: IntersectionObserver[] = [];
