@@ -25,8 +25,8 @@ export default function PageLoader() {
     >
       <div className="relative">
         <Image
-          src="/images/m-logo.png"
-          alt="Logo"
+          src="./images/m-logo.png"
+          alt="Frontend"
           width={200}
           height={200}
           className="relative z-10 rounded-[50%/50%] shadow-sm animate-[pulse_1.5s_ease-in-out_infinite]"

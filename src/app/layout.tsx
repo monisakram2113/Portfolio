@@ -23,7 +23,7 @@ export const metadata = {
     siteName: "Monis Akram Portfolio",
     images: [
       {
-        url: "/monis-akram.jpg",
+        url: "./monis-akram.jpg",
         width: 400,
         height: 400,
       },

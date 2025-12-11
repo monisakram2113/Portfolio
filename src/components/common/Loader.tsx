@@ -10,7 +10,7 @@ const Loader = () => {
                 >
                     <div className="relative">
                         <Image
-                            src="/images/red-spinner-ic.svg"
+                            src="./images/red-spinner-ic.svg"
                             alt="Logo"
                             width={110}
                             height={80}
